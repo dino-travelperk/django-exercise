@@ -4,7 +4,7 @@ Simple API for recipe CRUD
 
 ## to build & run
 
-- Run ```docker-compose up``` (.env file needs to be added to set the environemnt variables in docker-compose.yaml)
+- Run ```docker-compose up```
 
 - Tests are executed automatically`
 
